@@ -1,0 +1,15 @@
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/bin/Debug/net6.0/LINQEruption
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/bin/Debug/net6.0/LINQEruption.deps.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/bin/Debug/net6.0/LINQEruption.runtimeconfig.json
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/bin/Debug/net6.0/LINQEruption.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/bin/Debug/net6.0/LINQEruption.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/obj/Debug/net6.0/LINQEruption.csproj.AssemblyReference.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/obj/Debug/net6.0/LINQEruption.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/obj/Debug/net6.0/LINQEruption.AssemblyInfoInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/obj/Debug/net6.0/LINQEruption.AssemblyInfo.cs
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/obj/Debug/net6.0/LINQEruption.csproj.CoreCompileInputs.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/obj/Debug/net6.0/LINQEruption.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/obj/Debug/net6.0/refint/LINQEruption.dll
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/obj/Debug/net6.0/LINQEruption.pdb
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/obj/Debug/net6.0/LINQEruption.genruntimeconfig.cache
+/Users/vivianaballeza/Documents/coding_dojo/C#/LINQEruption/obj/Debug/net6.0/ref/LINQEruption.dll
